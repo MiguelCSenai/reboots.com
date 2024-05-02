@@ -48,7 +48,7 @@ function MainPage() {
                         A equipe SESI Reboot's representa a escola SESI<br/> CE-099 de Santa Bárbara d'Oeste, SP,
                         em competições de robótica, incluindo a First Lego League (FLL) e a Olimpíada Brasileira de Robótica (OBR).
                         Nossas conquistas incluem várias premiações e projetos inovadores.
-                        Siga nossas páginas no Instagram para acompanhar nossos treinos e projetos emocionantes!
+                        Siga a gente no Instagram para acompanhar nossos treinos e projetos emocionantes!
                     </div>
                 </div>
 
